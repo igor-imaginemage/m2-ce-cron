@@ -53,7 +53,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 - Run these commands in your terminal:
 
 ```bash
-composer require magemojo/m2-ce-cron
+composer require imaginationmedia/magemojo-magento2-cron
 php bin/magento module:enable MageMojo_Cron
 php bin/magento setup:upgrade
 php bin/magento setup:di:compile
